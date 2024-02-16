@@ -2,7 +2,7 @@
 
 Welcome to the Sudoku Validator project! This repository hosts a Java application designed to run in the terminal, aimed at validating Sudoku puzzles from a .txt format. Whether you're a Sudoku enthusiast or a Java developer looking to understand more about algorithmic problem-solving, this project is intended for educational and personal learning purposes.
 
-[File will be uploaded in the future. This README is writen before hand.]
+[Files will be uploaded in the future. This README is writen before hand.]
 
 ## Overview
 
